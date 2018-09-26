@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url(./Hui.ttf) format('truetype');
+}
+
 .hello {
+    font-family: 'iconfont';
     color: red;
 }
