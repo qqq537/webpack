@@ -1,7 +1,9 @@
 import _ from 'lodash';
-import './style.css';
+// import './style.css';
 // import icon from './share-icon.png';
-import printMe from './print'
+import {
+    printMe
+} from './print'
 
 function component() {
     var element = document.createElement('div');
